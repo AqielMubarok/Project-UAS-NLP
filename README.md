@@ -1,10 +1,14 @@
 # Repository Analisis Sentimen Ulasan Aplikasi Classroom di Google PlayStore Menggunakan SVM & Logistic Regression
 Repository ini merupakan repository dokumentasi dalam melakukan analisis sentimen menggunakan SVM & Logistic Regression pada ulasan aplikasi classroom di google playstore
 ```bash 
+
 Disusun Oleh Kelompok 1: 
 1. Aqiel Mubarok (7A PSTI)
 2. Dodi Muhamad Iqbal (7B PSTI)
 ```
+## Background
+Era pandemi covid-19 berdampak buruk bagi masyarakat dunia dan mengakibatkan  berbagai sektor terkena imbas adanya virus corona baik dari sektor keuangan maupun sektor pendidikan. Segala aktivitas harus dilakukan secara daring atau Work From Home salah satunya adalah lembaga-lembaga sekolah terpaksa melakukan pembelajaran secara online hal tersebut dikarenakan sebagai upaya mencegah penyebaran virus covid-19. Banyaknya platform-platform online dapat memudahakan sarana pembelajaran daring salah satunya adalah Platform Google Classrooom. Penggunaan Google Classroom dinilai baik karena dalam penggunaanya memliki banyak fitur untuk melaksanakan pembelajara daring. Namun nyatanya sebuah inovasi sistem ini terkdang tidak semuanya menerima dan beranggapan aplikasi ini sangat efektif untuk digunakan. dari banyaknya ulasan pengguna terhadap aplikasi GC masih banyak yang mengeluh dengan memberikan ulasan negatif tetapi juga tidak sedikit merekan bernaggapan positif. Oleh karena itu dengan adanya sentiment analysis ini dapat memberikan informasi terkait anggapan pungguna bernilai postif maupun neagtif terhadap aplikasi Google Classroom.
+
 ## Objective
 Analisis sentiment ini dilakukan untuk mengetahui tingkat akurasi sentiment dari kedua model yaitu SVM dan Logistic Regression
 
