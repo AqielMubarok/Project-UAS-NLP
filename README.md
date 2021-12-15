@@ -15,11 +15,11 @@ Analisis sentiment ini dilakukan untuk mengetahui tingkat akurasi sentiment dari
   
 2. Folder model. berisikan file hasil training model
 
-   [`logistic_regression.py`](./model/Logistic Regression.py)
+   [`Logistic Regression.py`](./model/Logistic Regression.py)
    
    Hasil training model Logistic Regression
    
-   [`support_vectore_machine.py`](./model/Support Vector Machine.py)
+   [`Support Vector Machine.py`](./model/Support Vector Machine.py)
    
    Hasil training model Support Vectore Machine
    
