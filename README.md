@@ -5,3 +5,5 @@ Disusun Oleh Kelompok 1:
 1. Aqiel Mubarok (7A PSTI)
 2. Dodi Muhamad Iqbal (7B PSTI)
 ```
+## Objective
+Analisis sentiment ini dilakukan untuk mengetahui tingkat akurasi sentiment dari kedua model yaitu SVM dan Logistic Regression
