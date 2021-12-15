@@ -1,0 +1,10 @@
+google-play-scraper
+pandas
+numpy
+matplotlib
+seaborn
+string
+re
+nltk
+sastrawi
+sklearn
