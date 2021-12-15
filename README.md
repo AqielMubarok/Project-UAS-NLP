@@ -11,6 +11,6 @@ Analisis sentiment ini dilakukan untuk mengetahui tingkat akurasi sentiment dari
 ## Project Structure
 1. Folder src. Berisikan file-file notebook atau python, diantaranya:
 
-[`dataset_ulasan_aplikasi_classroom.py`](./src/dataset_ulasan_aplikasi_classroom.py.Rmd)
+   [`dataset_ulasan_aplikasi_classroom.py`](./src/dataset_ulasan_aplikasi_classroom.py.Rmd)
 
-Notebook yang digunakan untuk scrapping data
+   Notebook yang digunakan untuk scrapping data
