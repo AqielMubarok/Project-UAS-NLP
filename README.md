@@ -9,7 +9,8 @@ Disusun Oleh Kelompok 1:
 Analisis sentiment ini dilakukan untuk mengetahui tingkat akurasi sentiment dari kedua model yaitu SVM dan Logistic Regression
 
 ## Project Structure
-1. Folder src
-   Berisikan file-file notebook atau python, diantaranya:
-   1). Scrapping data
-       [`dataset_ulasan_aplikasi_classroom.py`](./src/dataset_ulasan_aplikasi_classroom.py.Rmd)
+1. Folder src. Berisikan file-file notebook atau python, diantaranya:
+
+[`dataset_ulasan_aplikasi_classroom.py`](./src/dataset_ulasan_aplikasi_classroom.py.Rmd)
+
+Notebook yang digunakan untuk scrapping data
