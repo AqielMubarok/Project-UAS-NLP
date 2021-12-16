@@ -42,6 +42,7 @@ Analisis sentiment ini dilakukan untuk mengetahui tingkat akurasi sentiment dari
    Notebook yang digunakan untuk analisis sentimen dan pre-processing data
    
 ## Metrics
+Matrics yang kami gunakan ialah metrics accuracy
 ```bash 
 #Build Classfier
 from sklearn.linear_model import LogisticRegression
