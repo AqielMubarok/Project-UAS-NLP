@@ -40,3 +40,14 @@ Analisis sentiment ini dilakukan untuk mengetahui tingkat akurasi sentiment dari
    [`sentimen_analysis_classroom.py`](./src/sentimen_analysis_classroom.py)
 
    Notebook yang digunakan untuk analisis sentimen dan pre-processing data
+   
+## Metrics
+```bash 
+#Build Classfier
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X,y, train_size=0.80)
+```
