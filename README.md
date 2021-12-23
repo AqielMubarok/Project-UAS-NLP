@@ -19,7 +19,7 @@ Analisis sentiment ini dilakukan untuk mengetahui tingkat akurasi sentiment dari
   
 2. Folder model. berisikan file hasil training model
 
-   Penggunaan model Logistic Regressuon dalam sentiment analysis terhadap ulasan tokopedia di Google Play Store dipilih karena untuk memprediksi kemungkinan seseorang menggunakan aplikasi tersebut    berdasarkan hasil ulasan yang dibagi menjadi dua class yaitu ulasan negatif diambil berdasarkan jumlah bintang 1-3 dan postif diambil dari bintang 4-5. Kemudian juga memlih SVM untuk memberikan nilai maksima pemisah terbaik dari dataset. Dari dua model yang digunakan dapat menjadi perbandingan nilai dari hasil metric yang digunakan.
+   Penggunaan model Logistic Regressuon dalam sentiment analysis terhadap ulasan Classroom di Google Play Store dipilih karena untuk memprediksi kemungkinan seseorang menggunakan aplikasi tersebut    berdasarkan hasil ulasan yang dibagi menjadi dua class yaitu ulasan negatif diambil berdasarkan jumlah bintang 1-3 dan postif diambil dari bintang 4-5. Kemudian juga memlih SVM untuk memberikan nilai maksima pemisah terbaik dari dataset. Dari dua model yang digunakan dapat menjadi perbandingan nilai dari hasil metric yang digunakan.
   
    [`logistic_regression.py`](./model/logistic_regression.py)
    
